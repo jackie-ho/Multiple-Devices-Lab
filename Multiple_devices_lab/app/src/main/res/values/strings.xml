@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Multiple_devices_lab</string>
+    <string name="title_activity_card">CardActivity</string>
+</resources>
